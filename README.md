@@ -1,4 +1,4 @@
-<a href="#"><img width="90%" height="70%" align="center" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif"/></a>
+<a href="#"><img width="70%" height="50%" align="center" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif"/></a>
 <!-- https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif
 https://i.imgur.com/iXuL1HG.png" height="175px -->
 
@@ -83,8 +83,8 @@ https://i.imgur.com/iXuL1HG.png" height="175px -->
 
 
 <br/>
- <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
-<p align="center">
+<!--  <img width=50% hieght=40% align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" /> -->
+<p align="left">
     <a href="https://github.com/pawan521/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Vipul's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=pawan521&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
