@@ -90,7 +90,7 @@
 <a href="mailto:pawanvishwakarma521@gmail.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
    <a href="https://www.linkedin.com/in/vipulvishwakarma2504/"><img alt="Heroku" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
    <a href="https://twitter.com/_naalayak__"><img alt="MongoDB" src ="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
-   <a href="https://snapchat.com/naalayak25"><img src="https://img.shields.io/badge/Snapchat-%23FFFC00.svg?style=for-the-badge&logo=Snapchat&logoColor=white"></a>
+   <a href="https://t.snapchat.com/6f4Nf16x"><img src="https://img.shields.io/badge/Snapchat-%23FFFC00.svg?style=for-the-badge&logo=Snapchat&logoColor=white"></a>
     <a href="https://discord.gg/4CdGqcxQ"><img src="https://img.shields.io/badge/Discord-Server-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
    
 
