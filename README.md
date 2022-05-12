@@ -18,18 +18,27 @@
 
 - ⚡**Passion Make It Possible**
 
-## 🚀 Languages and Tools:
+## 🚀 Languages :
 
 <p align="left"> 
    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black&style=for-the-badge"></a>
-  <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajavascript"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white&style=for-the-badge"></a> 
+   <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajava">
+      <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
+   </a>
+   <a href="https://github.com/search?q=user%3ADenverCoder1+language%3AC">
+      <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
+   </a>
+   <a href="https://github.com/search?q=user%3ADenverCoder1+language%3ACSS3">
+      <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+   </a>
   <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white&style=for-the-badge"></a>
   <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white&style=for-the-badge"></a>
 </p>
 
-### 🧰 Frameworks and libraries
+### 🧰 Frameworks and libraries :
 
 <p>  
+     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajavascript"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white&style=for-the-badge"></a>
   <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
   <a href="#"><img alt="SASS" src="https://img.shields.io/badge/Sass-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"></a>
   <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?style=for-the-badge&logo=express&logoColor=white"></a>
@@ -38,7 +47,7 @@
   <a href="#"><img alt="tailwind" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"></a>
 </p>
 
-### 🗄️ Databases and cloud hosting
+### 🗄️ Databases and cloud hosting :
 
 <p>
     <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white&style=for-the-badge"></a>
@@ -81,6 +90,9 @@
 <a href="mailto:pawanvishwakarma521@gmail.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
    <a href="https://www.linkedin.com/in/vipulvishwakarma2504/"><img alt="Heroku" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
    <a href="https://twitter.com/_naalayak__"><img alt="MongoDB" src ="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
+   <a href="https://snapchat.com/naalayak25"><img src="https://img.shields.io/badge/Snapchat-%23FFFC00.svg?style=for-the-badge&logo=Snapchat&logoColor=white"></a>
+    <a href="https://discord.gg/4CdGqcxQ"><img src="https://img.shields.io/badge/Discord-Server-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
+   
 
 </p>
 
