@@ -84,16 +84,16 @@ https://i.imgur.com/iXuL1HG.png" height="175px -->
 <br/>
 <!--  <img width=50% hieght=40% align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" /> -->
 <p align="left">
-    <a href="https://github.com/pawan521/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Vipul's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=pawan521&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <a href="https://github.com/Vipul2504/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Vipul's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Vipul2504&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/pawan521/github-readme-stats"><img alt="Pawan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=pawan521&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/pawan521/github-readme-stats"><img alt="Pawan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pawan521&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/Vipul2504/github-readme-stats"><img alt="Vipul's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Vipul25041&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/Vipul2504/github-readme-stats"><img alt="Vipul's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vipul2504&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
@@ -101,7 +101,7 @@ https://i.imgur.com/iXuL1HG.png" height="175px -->
 <br/>
 <br/>
 
-<a href="https://github.com/pawan521/github-readme-activity-graph"><img alt="Pawan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=pawan521&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/Vipul2504/github-readme-activity-graph"><img alt="Vipul's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Vipul2504&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
@@ -125,6 +125,6 @@ https://i.imgur.com/iXuL1HG.png" height="175px -->
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=pawan521">
+    <img src="https://komarev.com/ghpvc/?username=Vipul2504">
 </a>
-<a href="https://github.com/SubhamRaoniar28?tab=followers"><img src="https://img.shields.io/github/followers/pawan521?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/SubhamRaoniar28?tab=followers"><img src="https://img.shields.io/github/followers/Vipul2504?label=Followers&style=social" alt="GitHub Badge"></a>
